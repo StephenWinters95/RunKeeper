@@ -1,0 +1,7 @@
+{
+  "name": "Run-Keeper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
